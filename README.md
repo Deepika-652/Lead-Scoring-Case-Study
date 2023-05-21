@@ -12,9 +12,15 @@ X Education has appointed you to help them select the most promising leads, i.e.
 # Solution Methodology
 
 • Reading, understanding and visualizing the data
+
 • Preparing the data for modelling(train-test split, rescaling etc.)
+
 • Training the model • Model Building & Feature selection using RFE
+
 • Prediction and evaluation on the test set
+
 • Metrics & Plotting ROC Curve
+
 • Finding Cutoff Point & Making Prediction
+
 • Measure the accuracy of the model and other metrics for evaluation
